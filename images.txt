@@ -1,3 +1,4 @@
 alpine
 kasmweb/nginx:1.25.3
 nacos/nacos-server:v2.1.2-slim
+zhusaidong/nacos-server-m1:2.0.3
